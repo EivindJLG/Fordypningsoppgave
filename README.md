@@ -4,6 +4,7 @@ IT-Drift fordypning subnetting og containers
 07.04.2026 - Start av fordypningsoppgave
 Jeg bestemte meg til å lære om containers og subnetting.
 
+
 I dag lærte jeg mest praktisk om containers, men litt teoretisk om subnetting også.
 Installerte Docker Desktop der jeg kan lage containers som kjører applikasjoner i isolerte miljøer. Jeg installerte også Linux på windows med WSL (Windows Subsystem for Linux) --install. Lagde min første container med kommandoen: docker run hello-world. Siste container lagde jeg en nginx http server med kommandoen: docker run -d -p 8080:80 nginx. Når det kommer til subnetting så lærte jeg at det er en prossess der man deler opp en stor IP nettverk til mindre, men håndterbar subnets. Det som er bra med subnetting er at nettverket, sikkerheten, og IP-adressene blir mer effektive. For eksempel subnetting er bra for bedrifter fordi at det er bedre bruker/systemadministrasjon.
 
@@ -16,7 +17,6 @@ Subnetting = Nettverkssegmentering/Undernetting
 
 ---
 
-##  Om oppgaven
 I denne fordypningsoppgaven har jeg valgt å jobbe med temaene:
 - Subnetting  
 - Containere  
