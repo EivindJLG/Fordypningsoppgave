@@ -1,7 +1,7 @@
 # Fordypningsoppgave
 IT-Drift fordypning subnetting og containers
 
-07.04.2026 - Start av fordypningsoppgave
+07.04.2026 - 10.04.2026 - Start av fordypningsoppgave
 Jeg bestemte meg til å lære om containers og subnetting.
 
 
@@ -25,7 +25,7 @@ Målet er å lære både **praktisk og teoretisk** hvordan disse brukes i IT-dri
 
 ---
 
-##  Dag 1 – Start av prosjekt
+##  Start av prosjekt
 Jeg bestemte meg for å fokusere på subnetting og containere fordi:
 - Det er relevant i moderne IT-drift  
 - Det kombinerer nettverk og systemer  
