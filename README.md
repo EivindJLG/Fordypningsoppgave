@@ -1,7 +1,7 @@
 # Fordypningsoppgave
 IT-Drift fordypning subnetting og containers
 
-07.04.2026 - 10.04.2026 - Start av fordypningsoppgave
+07.04.2026 - 24.04.2026 - Start av fordypningsoppgave
 Jeg bestemte meg til å lære om containers og subnetting.
 
 
@@ -38,7 +38,10 @@ Jeg bestemte meg for å fokusere på subnetting og containere fordi:
 ### Installasjon
 For å jobbe med containere installerte jeg:
 - Docker Desktop  
-- Linux på Windows ved hjelp av WSL (Windows Subsystem for Linux)  
+- Linux på Windows ved hjelp av WSL (Windows Subsystem for Linux)
+
+
+## Jeg har bestemt meg til å bruke docker desktop til containers for mitt prosjekt. Målet er å runne min nettside/applikasjon ved hjelp av containers og ikke bare flask
 
 Kommando brukt:
 ```bash
